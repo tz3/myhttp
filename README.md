@@ -58,7 +58,7 @@ Unit Tests
 
 This tool has been tested using the standard Go testing package. You can run the tests by executing the following command:
 
-`go test`
+`go test ./...`
 
 Dependencies
 ------------
