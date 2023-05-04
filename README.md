@@ -64,8 +64,3 @@ Dependencies
 ------------
 
 This tool has no external dependencies beyond Go's standard library.
-
-Conclusion
-----------
-
-Thank you for considering me for the Go Backend Engineer role. I hope you find this tool useful and look forward to discussing it further with you. If you have any questions or comments, please don't hesitate to contact me.
